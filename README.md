@@ -1,6 +1,8 @@
 # cv
 curriculum vitae, resume, activities of Glen D. Carl
 
+Profile: <https://github.com/glencarl>
+
 ## Purpose of Repository
 
 - Find opportunities from sharing past and present activities
