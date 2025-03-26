@@ -1,9 +1,9 @@
 # cv
 curriculum vitae, resume, activities of Glen D. Carl
 
-Github Profile: <https://github.com/glencarl>
-Stackoverflow Profile: <https://stackoverflow.com/users/1480918/zerocog>
-LinkedIn: <https://www.linkedin.com/in/glencarl>
+- Github Profile: <https://github.com/glencarl>
+- Stackoverflow Profile: <https://stackoverflow.com/users/1480918/zerocog>
+- LinkedIn: <https://www.linkedin.com/in/glencarl>
 
 ## Purpose of Repository
 
