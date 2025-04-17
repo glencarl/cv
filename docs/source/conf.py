@@ -33,7 +33,9 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'classic'
+# html_theme = 'classic'
+html_theme = 'pydata_sphinx_theme'
+# requires pip install pydata-sphinx-theme
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
@@ -46,14 +48,21 @@ sec_gray_color = '#4C4F59'
 sec_yellow_color = '#FAB208'
 sec_code_color = '#E7E7E7'
 
-html_theme_options = {'rightsidebar': True,
-                      'stickysidebar': True,
-                      'collapsiblesidebar': False,
-                      'externalrefs': True,
-                      'footerbgcolor': sec_gray_color,
-                      'sidebarbgcolor': primary_color,
-                      'relbarbgcolor': sec_blue_color,
-                      'codebgcolor': sec_code_color,
+# for classic
+# html_theme_options = {
+#                      'rightsidebar': True,
+#                      'stickysidebar': True,
+#                      'collapsiblesidebar': False,
+#                      'externalrefs': True,
+#                      'footerbgcolor': sec_gray_color,
+#                      'sidebarbgcolor': primary_color,
+#                      'relbarbgcolor': sec_blue_color,
+#                      'codebgcolor': sec_code_color,
+#                     }
+
+# for pydata_sphinx_theme
+html_theme_options = {
+                      'navbar_end': ['theme-switcher', 'navbar-icon-links'],
                      }
 
 # The name of an image file (relative to this directory) to place at the top
