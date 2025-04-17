@@ -17,4 +17,5 @@ documentation for details.
 
    introduction
    downloads
-   how-to-job-hunt
+   howtojobhunt
+   entrylevel

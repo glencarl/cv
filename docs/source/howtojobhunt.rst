@@ -120,10 +120,59 @@ Stay Flexible and Persistent
 
 By combining these strategies—customizing your applications, building a strong network and online presence, continuously learning, and demonstrating leadership—you can effectively stand out and succeed in a highly competitive job market.
 
+
+How to Leverage Social Media to Enhance Your Job Search
+=======================================================
+
+Optimize Your Profiles
+----------------------
+
+- Ensure your LinkedIn and other professional profiles are complete, up to date, and tailored to your target roles. Use a professional photo, craft a compelling headline, and highlight your key skills and accomplishments [HL6]_ [HL5]_ [HL3]_ .
+- Clean up your social media accounts by removing unprofessional content and optimizing your bios to reflect your career aspirations and strengths [HL3]_ .
+
+Build and Expand Your Network
+-----------------------------
+
+- Let your social network know you’re job hunting. Reach out directly to contacts in your industry with clear information about what you’re seeking, and have your resume and references ready [HL1]_ .
+- Connect and engage with industry leaders, recruiters, and potential employers by following their profiles, commenting on their posts, and joining relevant industry groups and discussions [HL3]_ [HL2]_ [HL5]_ [HL6]_ .
+
+Engage with Industry Content
+----------------------------
+
+- Regularly share and comment on industry news, trends, and thought leadership pieces to demonstrate your expertise and passion. Tag companies or individuals where appropriate to increase visibility [HL6]_ [HL3]_ .
+- Join and participate in professional groups on platforms like LinkedIn and Facebook to access job postings, share insights, and expand your network [HL5]_ [HL3]_ .
+
+Showcase Your Skills and Personal Brand
+---------------------------------------
+
+- Use LinkedIn to detail your experience, skills, and education, and consider publishing posts or articles that highlight your achievements and knowledge [HL3]_ [HL5]_ .
+- For creative fields, use platforms like Instagram, GitHub, or Behance to display your portfolio and projects [HL5]_ [HL8]_ .
+
+Use Hashtags and Keywords Strategically
+---------------------------------------
+
+- Incorporate relevant industry hashtags in your posts to reach a wider professional audience and make your content discoverable by recruiters [HL4]_ [HL6]_ .
+- Ensure your profiles and posts include keywords related to your desired roles to improve your chances of being found by employers searching for talent [HL4]_ [HL5]_ .
+
+Research and Target Companies
+-----------------------------
+
+- Follow companies you’re interested in to stay updated on job openings and company news. Use social media to research company culture and prepare for interviews [HL3]_ [HL2]_ .
+
+Stay Professional and Active
+----------------------------
+
+- Maintain a consistent, professional tone across all platforms. Employers often review candidates’ social media to assess professionalism and cultural fit [HL6]_ [HL3]_ [HL7]_ .
+- Stay active by regularly updating your profiles, engaging with content, and nurturing relationships with recruiters and industry professionals [HL6]_ [HL7]_ .
+
+---
+
+By strategically optimizing your presence, engaging with the right people and content, and showcasing your skills, social media can significantly enhance your job search, increase your visibility, and connect you with opportunities that may not be available elsewhere [HL6]_ [HL3]_ [HL5]_ .
+
 Citations
 ---------
 
-.. [JH1] https://www.investopedia.com/essential-job-hunting-skills-8773801
+.. [JH1] https://www.investopedia.com/essential-job-hunting-skills-877380
 .. [JH4] https://www.reddit.com/r/recruitinghell/comments/1hjdh46/some_inspiration_headed_into_2025_from_my_own_job/
 .. [JH5] https://www.indeed.com/career-advice/resumes-cover-letters/skills-employers-look-for
 .. [JH6] https://www.forbes.com/sites/shodewan/2025/01/22/5-job-search-trends-for-2025/
@@ -138,5 +187,15 @@ Citations
 .. [HSO7] https://www.ef.edu/blog/language/how-to-make-yourself-more-competitive-in-the-job-market-5-tips/
 .. [HSO8] https://topresume.com/career-advice/stand-out-when-unemployment-high
 
+.. [HL1] https://www.pointloma.edu/resources/business-leadership/how-leverage-social-media-land-your-dream-job
+.. [HL2] https://www.right.com/insights/leverage-social-media-while-job-hunting
+.. [HL3] https://www.umgc.edu/career-connection/articles/how-to-leverage-social-media-for-job-search-success
+.. [HL4] https://backstagecountry.com/2024/10/24/leverage-social-media/
+.. [HL5] https://www.linkedin.com/pulse/leveraging-social-media-your-job-search-1rvpc
+.. [HL6] https://www.linkedin.com/pulse/use-social-media-enhance-your-job-hunt-open-systems-technologies-r5gve
+.. [HL7] https://stsstaffing.com/2024/05/01/6-tips-for-using-social-media-in-your-job-search/
+.. [HL8] https://ca.indeed.com/career-advice/career-development/types-of-social-media
+
 ---
+
 Answer from Perplexity: pplx.ai/share
